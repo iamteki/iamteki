@@ -103,7 +103,6 @@ I'm a passionate software developer from Sri Lanka 🇱🇰, currently pursuing 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> Achievements
 
-- 🏆 Maintaining a **3.78 GPA** in BSc IT program
 - 💻 Successfully delivered **20+ client projects** as a freelance developer
 - 🌟 Built comprehensive solutions across **web, mobile, desktop, and IoT** platforms
 - 🔒 Experienced in **network security** and **penetration testing**
