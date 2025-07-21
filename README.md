@@ -88,7 +88,7 @@ I'm a passionate software developer from Sri Lanka 🇱🇰, currently pursuing 
 ### 🔧 Other Projects
 - **[Employee Management System](https://github.com/iamteki/employee-management-system)** - HR management platform
 - **[CozyComfort B2B Platform](https://github.com/iamteki/cozycomfort)** - Supply chain management with SOA
-- **[Obstacle Avoiding Robot](https://github.com/iamteki/robot-car)** - Arduino-based autonomous vehicle
+- **[Obstacle Avoiding Robot](https://youtu.be/spQ-5IFEUBA?si=4TO8rXbuTXmdtpkw)** - Arduino-based autonomous vehicle
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" /> GitHub Stats
 
