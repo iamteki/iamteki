@@ -67,7 +67,7 @@ I'm a passionate software developer from Sri Lanka 🇱🇰, currently pursuing 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Projects" width="30" height="30" /> Featured Projects
 
 ### 🛒 E-commerce & Business Solutions
-- **[Cashmind E-Learning Platform](https://github.com/iamteki/cashmind)** - Comprehensive online learning platform with secure video streaming, digital products, and Stripe integration
+- **[Cashmind E-Learning Platform](https://cashmind.org)** - Comprehensive online learning platform with secure video streaming, digital products, and Stripe integration
 - **[KL Mobile Event Management](https://kl.creatxsoftware.com/)** - DJ and event equipment rental system for Malaysian market
 - **[Nimesh Store POS System](https://github.com/iamteki/nimeshstore)** - Retail management system with barcode scanning and thermal printing
 
