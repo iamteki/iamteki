@@ -69,7 +69,7 @@ I'm a passionate software developer from Sri Lanka 🇱🇰, currently pursuing 
 ### 🛒 E-commerce & Business Solutions
 - **[Cashmind E-Learning Platform](https://github.com/iamteki/cashmind)** - Comprehensive online learning platform with secure video streaming, digital products, and Stripe integration
 - **[KL Mobile Event Management](https://kl.creatxsoftware.com/)** - DJ and event equipment rental system for Malaysian market
-- **[Nimesh Store POS System](https://github.com/iamteki/nimesh-store)** - Retail management system with barcode scanning and thermal printing
+- **[Nimesh Store POS System](https://github.com/iamteki/nimeshstore)** - Retail management system with barcode scanning and thermal printing
 
 ### 🌐 Web Applications
 - **[Fuel Quota Management System](https://github.com/iamteki/fuel-quota)** - Full-stack solution with QR code scanning mobile app
