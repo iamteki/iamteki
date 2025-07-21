@@ -72,7 +72,7 @@ I'm a passionate software developer from Sri Lanka 🇱🇰, currently pursuing 
 - **[Nimesh Store POS System](https://github.com/iamteki/nimeshstore)** - Retail management system with barcode scanning and thermal printing
 
 ### 🌐 Web Applications
-- **[Fuel Quota Management System](https://github.com/iamteki/fuel-quota)** - Full-stack solution with QR code scanning mobile app
+- **[Fuel Quota Management System](https://github.com/iamteki/FuelFe)** - Full-stack solution with QR code scanning mobile app
 - **[Bus Ticket Booking System](https://github.com/iamteki/bus-ticket)** - Online reservation platform with Payhere payment integration
 - **[Construction Company Website](http://www.sandsconstruction.lk)** - Professional business website
 
